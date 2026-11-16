@@ -5,5 +5,6 @@
    ============================================================ */
 window.ENLACES = {
   cocina: "https://cgutierrezpoza.github.io/Cocina/",
-  salsas: "https://cgutierrezpoza.github.io/Salsas/"
+  salsas: "https://cgutierrezpoza.github.io/Salsas/",
+  bolleria: "https://cgutierrezpoza.github.io/bolleria/"
 };

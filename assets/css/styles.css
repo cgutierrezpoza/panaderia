@@ -346,3 +346,5 @@ table.nice tr:last-child td{border-bottom:0}
 @media (max-width:520px){.doneness.proceso{grid-template-columns:repeat(2,1fr)}}
 .fact b{font-size:1rem}
 .aprox{font-style:normal;opacity:.75}
+
+.nav-ext a.bolleria{background:#FBDDE4;color:#A8436A}

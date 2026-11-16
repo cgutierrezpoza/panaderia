@@ -3,7 +3,7 @@
 Sitio web estático con las 38 fichas técnicas de la asignatura de Panadería (PGG1108), Escuela de Gastronomía Duoc UC, sede San Andrés de Concepción. Página desarrollada por Claudia Gutierrez Poza.
 
 ## Contenido
-- **Portada** (`index.html`): presentación, enlaces a los sitios de Cocina y Salsas, menú por áreas, recetario con filtros y buscador, explorador del proceso panadero, glosario y contador de visitas.
+- **Portada** (`index.html`): presentación, enlaces a los sitios de Cocina, Salsas y Bollería, menú por áreas, recetario con filtros y buscador, explorador del proceso panadero, glosario y contador de visitas.
 - **9 áreas** (`areas/`): Panes tradicionales chilenos, Masas duras o firmes, Empanadas y masas fritas, Masas francesas, Masas blandas o soft, Panes integrales, Panes adicionados, Tradición italiana y del mundo, Masa madre y premezclas.
 - **38 recetas** (`recetas/`): productos agrupados, multiplicador de receta (½×, 1×, 2×, 3×), porcentaje panadero, proceso paso a paso con progreso y puntos críticos.
 
